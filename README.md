@@ -2,5 +2,7 @@
 
 An ultra-basic client-side javascript / CRUD game. 
 
-## GOAL:
+
+
+### GOAL:
 Use the arrow keys to get to the emancipation proclamation.
