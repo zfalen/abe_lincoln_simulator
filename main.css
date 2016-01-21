@@ -1,0 +1,57 @@
+.border {
+    border-style: solid; 
+    border-width: 1px; 
+    border-color: black; 
+    height: 200px;
+}
+
+.centerVertical {
+    position: relative;
+    top: 50%;
+}
+
+.obscure {
+    color: red;
+}
+
+.abe {
+    background-image: url("./tumblr_mm0vrrjOtQ1r413h3o1_400.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;   
+}
+
+.theater {
+    background-image: url("./theatre-icon1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.scroll {
+    background-image: url("./Sprite-scroll.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.bull {
+    background-image: url("./bull-vector-illustration_19-131204.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.gettysburg {
+    background-image: url("./gettysburg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.confederate{
+    background-image: url("./confed.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
